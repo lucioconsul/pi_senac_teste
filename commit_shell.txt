@@ -2,7 +2,7 @@ shell:
 
 dir
 
-cd pi_senac_teste
+cd pi_senac_teste (nome da pasta)
 
 git add .
 
