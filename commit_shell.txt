@@ -2,7 +2,7 @@ shell:
 
 dir
 
-cd pi_senac_teste (nome da pasta)
+cd pi_senac_teste
 
 git add .
 
@@ -11,3 +11,5 @@ git status
 git commit -m "comentario"
 
 git push
+
+git pull (update)
