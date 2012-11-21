@@ -1,15 +1,15 @@
 shell:
 
-dir
+dir ->mostra os arquivos que eu tenho no diretorio que eu estou
 
-cd pi_senac_teste
+cd pi_senac_teste -> seleciona o projeto que eu vou upar ou baixar
 
-git add .
+git add . ->adiciona as minhas modificações ainda na minha maquina
 
-git status 
+git status ->mostra as alterações
 
-git commit -m "comentario"
+git commit -m "comentario" ->encapsula no meu pc
 
-git push
+git push ->commita
 
 git pull (update)
